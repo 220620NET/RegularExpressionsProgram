@@ -1,0 +1,11 @@
+E:\revature\Example Username Validator\Example Username Validator\bin\Debug\Example Username Validator.exe.config
+E:\revature\Example Username Validator\Example Username Validator\bin\Debug\Example Username Validator.exe
+E:\revature\Example Username Validator\Example Username Validator\bin\Debug\Example Username Validator.pdb
+E:\revature\Example Username Validator\Example Username Validator\obj\Debug\Example Username Validator.csproj.AssemblyReference.cache
+E:\revature\Example Username Validator\Example Username Validator\obj\Debug\Example Username Validator.csproj.SuggestedBindingRedirects.cache
+E:\revature\Example Username Validator\Example Username Validator\obj\Debug\Example_Username_Validator.Form1.resources
+E:\revature\Example Username Validator\Example Username Validator\obj\Debug\Example_Username_Validator.Properties.Resources.resources
+E:\revature\Example Username Validator\Example Username Validator\obj\Debug\Example Username Validator.csproj.GenerateResource.cache
+E:\revature\Example Username Validator\Example Username Validator\obj\Debug\Example Username Validator.csproj.CoreCompileInputs.cache
+E:\revature\Example Username Validator\Example Username Validator\obj\Debug\Example Username Validator.exe
+E:\revature\Example Username Validator\Example Username Validator\obj\Debug\Example Username Validator.pdb
